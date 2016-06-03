@@ -1,3 +1,10 @@
+---
+layout: post
+title:  "Data Cleaning"
+date:   2016-06-03
+categories: data cleaning
+---
+
 # Data Cleaning
 
 ## Removing non-ascii data from text
