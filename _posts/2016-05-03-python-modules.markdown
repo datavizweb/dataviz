@@ -43,6 +43,3 @@ Close the workbook object explicitly to create "book.xlsx" file.
 ```python
 book.close()
 ```
-
-
----

@@ -18,4 +18,3 @@ I had to add the option `-strict experimental` as the tool showed warning when u
 I haven't explored other options. If your in a hurry then avconv can get our work done without needing to know about complex details about video format.
 
 
----
