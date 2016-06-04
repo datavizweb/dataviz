@@ -1,7 +1,13 @@
 ---
 layout: post
-title: Python xlsxwriter
+title: Python Modules
+date : 2016-05-03
+categories : python-modules
 ---
+
+# Python Modules
+
+## xlsxwriter
 
 Python module `xlsxwriter` can be used to create new Microsoft 
 excel file. It is important to note that, xlsxwriter can only 
@@ -25,7 +31,7 @@ Once the workbook and worksheet are created, we can start adding data.
 
 ```python
 
-## lets add a string to first cell and make it bold
+## lets add a string to first cell
 sheet1.write(0, 0, "Day")
 ## this can also be written by specifying the cell number
 ## for the 0, 0 case the cell is A1. xlsxwriter uses 0 based indexing
@@ -37,6 +43,5 @@ Sometimes (for the reason not known) you won't see this file created.
 Close the workbook object explicitly to create "book.xlsx" file.
 
 ```python
-
 book.close()
 ```

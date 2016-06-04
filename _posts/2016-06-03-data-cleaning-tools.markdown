@@ -2,10 +2,8 @@
 layout: post
 title:  "Data Cleaning"
 date:   2016-06-03
-categories: data cleaning
+categories: data-cleaning
 ---
-
-# Data Cleaning
 
 ## Removing non-ascii data from text
 
@@ -24,5 +22,4 @@ categories: data cleaning
 
 ## Useful python modules for data cleaning
 
-* `six` : need to check what it is
 * `html/htmlparser` : to parse html data

@@ -1,7 +1,11 @@
 ---
 layout: post
-title: Reduce size of MP4
+title: Utilities
+date : 2016-05-04
+categories : utilities
 ---
+
+## Reduce the size of mp4
 
 I had an mp4 file which was of size `132 MB`. I wanted to reduce the size of the file so that I can share it over mail. I googled for the solution and came across various options like using ffmpeg or other tools. After trying with all the options what worked for me is conversion using `**avconv**`. Here is the exact command I used on a `Ubuntu 14.04`.
 
