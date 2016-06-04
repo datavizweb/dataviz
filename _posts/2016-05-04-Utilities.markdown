@@ -16,3 +16,6 @@ avconv -i input.mp4 -s 1280x960 -strict experimental output.mp4
 I had to add the option `-strict experimental` as the tool showed warning when used without it. You can play with different resolution for `-s` option. With resolution of `1280x960` the size of mp4 reduced to `25 MB`. Lower resolution can give smaller size, however it will affect the video quality.
 
 I haven't explored other options. If your in a hurry then avconv can get our work done without needing to know about complex details about video format.
+
+
+---

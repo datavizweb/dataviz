@@ -5,8 +5,6 @@ date : 2016-05-03
 categories : python-modules
 ---
 
-# Python Modules
-
 ## xlsxwriter
 
 Python module `xlsxwriter` can be used to create new Microsoft 
@@ -45,3 +43,6 @@ Close the workbook object explicitly to create "book.xlsx" file.
 ```python
 book.close()
 ```
+
+
+---

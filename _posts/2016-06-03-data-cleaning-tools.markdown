@@ -14,12 +14,16 @@ categories: data-cleaning
   
   iconv -c -f <input format> -t <output-format> infile > outfile
   ```
+
+---
   
 ## Some techniques to clean the data
 
 * This [webpage](http://www.analyticsvidhya.com/blog/2014/11/text-data-cleaning-steps-python/) has some tips or suggestion for data cleaning using python
 
 
+
+----
 ## Useful python modules for data cleaning
 
 * `html/htmlparser` : to parse html data

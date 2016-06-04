@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Learning Goals
+date:   2016-05-29
+categories: goals
 ---
 
 Following are learning resources which I would be using to 
