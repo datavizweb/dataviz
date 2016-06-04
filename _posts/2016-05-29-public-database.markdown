@@ -7,3 +7,6 @@ categories: database
 
 ## Names database
 * [USA Social Security names database](https://www.ssa.gov/oact/babynames/limits.html)
+
+## All India PIN code directory
+* [PIN Code directory](https://data.gov.in/catalog/all-india-pincode-directory)
