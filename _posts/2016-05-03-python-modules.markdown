@@ -43,3 +43,20 @@ Close the workbook object explicitly to create "book.xlsx" file.
 ```python
 book.close()
 ```
+
+## HTMLParser
+
+Python HTMLParser module can be used to remove HTML entities.   
+
+```python
+In [29]: import HTMLParser
+In [30]: html_parser = HTMLParser.HTMLParser()
+
+In [31]: html_parser.unescape("&lt; &amp; &quot; &apos; &gt;")
+Out[31]: u'< & " \' >'
+
+In [34]: html_parser.unescape("&quot;between quotes&quot; and 3 &gt; 1")
+Out[34]: u'"between quotes" and 3 > 1'
+```
+
+
