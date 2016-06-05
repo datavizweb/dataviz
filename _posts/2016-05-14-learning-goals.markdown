@@ -77,6 +77,7 @@ Planning to take following courses
 * This Quora post has link to many resouces
   * [Quora post](https://www.quora.com/How-can-I-become-a-data-scientist-1)
 
+* Extensive resource collection can be found [here](https://github.com/aymericdamien/Machine-Learning-Tutorials)
 
 * Data Visulization  
   My plan also includes to learn D3. It will help to create great visualization using the data.
