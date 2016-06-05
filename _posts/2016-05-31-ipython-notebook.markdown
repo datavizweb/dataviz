@@ -101,7 +101,7 @@ Now, open your browser and use your domain name and point it to port.
 https://<your domain ip here>:8888
 ```
 
-Your browser will complain about certification. Add and exception and you will see a login page.
+Your browser will complain about certification. Add an exception and you will see a login page.
 Enter the password and you will be taken to main notebook page.
 
 ![notebook_login]({{ site.baseurl }}/assets/ipython_notebook_server_remote_login.jpeg)
