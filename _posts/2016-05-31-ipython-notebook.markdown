@@ -1,13 +1,13 @@
 ---
 layout: post
-title:  "Ipython notebook"
+title:  "IPython notebook"
 date:   2016-05-31
 categories: ipython-notebook
 ---
 
-## Math Equation in Ipython Notebook
+## Math Equation in IPython Notebook
 
-To add latex equation in Ipython Notebook  
+To add latex equation in IPython Notebook  
 
 ```latex
 %%latex
@@ -21,7 +21,7 @@ Once run this will render math equation.
 
 ## Ploting figure inline
 
-To display matplotlib plots inline on Ipython notebook
+To display matplotlib plots inline on IPython notebook
 
 ```ipython
 %matplotlib inline
@@ -104,8 +104,8 @@ https://<your domain ip here>:8888
 Your browser will complain about certification. Add and exception and you will see a login page.
 Enter the password and you will be taken to main notebook page.
 
-![notebook_login]({{ site.url }}/assets/ipython_notebook_server_remote_login.jpeg)
+![notebook_login]({{ site.baseurl }}/assets/ipython_notebook_server_remote_login.jpeg)
 
-Select the existing ipython notebook or create newnotebook.
+Select the existing ipython notebook or create new notebook.
 
-![notebook_mainpage]({{ site.url }}/assets/ipython_remote_server_main_page.jpeg)
+![notebook_mainpage]({{ site.baseurl }}/assets/ipython_remote_server_main_page.jpeg)
