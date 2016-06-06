@@ -60,3 +60,72 @@ Out[34]: u'"between quotes" and 3 > 1'
 ```
 
 
+## UnitTest module
+
+Python `unittest` module
+
+* Create a `Unittest class` and make it subclass of `unittest.TestCase`
+* Write functions which tests expected behaviour of functions
+* Add check or assertions
+* Run the unittest  
+
+```python
+import unittest
+
+def multiple_of_two(num):
+    """
+    returns true if num is multiple of two
+    """
+    return (num % 2) == 0
+
+def str_len_less_than_five(str1):
+    """
+    returns true if str len is less than 5
+    """
+    return len(str1) < 5
+
+class MyUnitTest(unittest.TestCase):
+    """
+    UnitTest class
+    """
+    def test_multiple_of_two(self):
+        self.assertTrue(multiple_of_two(200))
+        self.assertFalse(multiple_of_two(201))
+        
+    def test_str_len_less_than_five(self):
+        self.assertTrue(str_len_less_than_five("abc"))
+        self.assertFalse(str_len_less_than_five("abcdef"))
+
+##
+## Running test directly from your functions
+##
+testsuite = unittest.TestLoader().loadTestsFromTestCase(MyUnitTest)
+unittest.TextTestRunner(verbosity=2).run(testsuite)
+```
+
+To run tests from bash, add the below line to the script which will be called only when we invoke the script.
+```python
+##
+## Testing from bash
+##
+if __name__ == '__main__':
+    unittest.main()
+```
+
+If your script is saved as `myunittest.py`, then you can run the unittest by running the script
+
+```bash
+python myunittest.py -v
+```
+
+Once run, it will test the condition and will list the test which are passed and the tests which failed.
+
+```bash
+test_multiple_of_two (__main__.MyUnitTest) ... ok
+test_str_len_less_than_five (__main__.MyUnitTest) ... ok
+
+----------------------------------------------------------------------
+Ran 2 tests in 0.005s
+
+OK
+```
