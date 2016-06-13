@@ -103,7 +103,8 @@ testsuite = unittest.TestLoader().loadTestsFromTestCase(MyUnitTest)
 unittest.TextTestRunner(verbosity=2).run(testsuite)
 ```
 
-To run tests from bash, add the below line to the script which will be called only when we invoke the script.
+To run tests from bash, add the below line to the script which will be called only when we invoke the script.  
+
 ```python
 ##
 ## Testing from bash
