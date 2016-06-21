@@ -8,10 +8,13 @@ categories: Reading List
 # Neural Network Adaptation
 
 * [Steve Renals ASRU 2015 Talk](http://homepages.inf.ed.ac.uk/srenals/asru2015-srenals.pdf)
+
  > Brief overview of challenges in NN adaptation
+ 
 * [Sequence Summarizing Neural Network for Speaker
 Adaptation](http://www.merl.com/publications/docs/TR2016-001.pdf)
-> **Abstract :**
+
+ > **Abstract :**
 In this paper, we propose a DNN adaptation technique, where the i-vector extractor is replaced
 by a Sequence Summarizing Neural Network (SSNN). Similarly to i-vector extractor,
 the SSNN produces a ”summary vector”, representing an acoustic summary of an utterance.
@@ -21,9 +24,11 @@ methods are compared on AMI meeting data. The results show comparable performanc
 both techniques on FBANK system with frame classification training. Moreover, appending
 both the i-vector and ”summary vector” to the FBANK features leads to additional improvement
 comparable to the performance of FMLLR adapted DNN system
+
 * [SPEECH RECOGNITION WITH PREDICTION-ADAPTATION-CORRECTION RECURRENT
-NEURAL NETWORKS](https://groups.csail.mit.edu/sls/publications/2015/YuZhang_ICASSP_2015.pdf)
-> **Abstract :**  We propose the prediction-adaptation-correction RNN (PAC-RNN),
+NEURAL NETWORKS](https://groups.csail.mit.edu/sls/publications/2015/YuZhang_ICASSP_2015.pdf)  
+
+ > **Abstract :**  We propose the prediction-adaptation-correction RNN (PAC-RNN),
 in which a correction DNN estimates the state posterior probability
 based on both the current frame and the prediction made on the
 past frames by a prediction DNN. The result from the main DNN is
@@ -38,8 +43,10 @@ LSTM with 2.4%, 2.1%, and 1.9% absolute phone accuracy improvement,
 respectively. We found that incorporating the prediction
 objective and including the recurrent loop are both important to
 boost the performance of the PAC-RNN.
-* [DIFFERENTIABLE POOLING FOR UNSUPERVISED SPEAKER ADAPTATION](http://www.cstr.ed.ac.uk/downloads/publications/2015/Swietojanski_ICASSP2015.pdf)
-> **Abstract :**  This paper proposes a differentiable pooling mechanism to perform
+
+* [DIFFERENTIABLE POOLING FOR UNSUPERVISED SPEAKER ADAPTATION](http://www.cstr.ed.ac.uk/downloads/publications/2015/Swietojanski_ICASSP2015.pdf)  
+
+ > **Abstract :**  This paper proposes a differentiable pooling mechanism to perform
 model-based neural network speaker adaptation. The proposed technique
 learns a speaker-dependent combination of activations within
 pools of hidden units, was shown to work well unsupervised, and
@@ -72,9 +79,11 @@ combined with feature-space maximum likelihood linear regression
 (fMLLR). The approach can be employed in most
 existing feed-forward neural network architectures, and we
 report results using various hidden unit activation function.
+
 * [On Speaker Adaptation of Long Short-Term Memory Recurrent Neural
-Networks](https://www.cs.cmu.edu/~ymiao/pub/is2015_lstm.pdf)
-> **Abstract :** Long Short-Term Memory (LSTM) is a recurrent neural network
+Networks](https://www.cs.cmu.edu/~ymiao/pub/is2015_lstm.pdf)  
+
+ > **Abstract :** Long Short-Term Memory (LSTM) is a recurrent neural network
 (RNN) architecture specializing in modeling long-range
 temporal dynamics. On acoustic modeling tasks, LSTM-RNNs
 have shown better performance than DNNs and conventional
@@ -92,9 +101,11 @@ these approaches, speaker adaptation improves word error
 rates by 3-4% relative over a strong LSTM-RNN baseline. This
 improvement is enlarged to 6-7% if we exploit SA features for
 further adaptation.
+
 * [DNN SPEAKER ADAPTATION USING PARAMETERISED SIGMOID AND RELU
-HIDDEN ACTIVATION FUNCTIONS](http://mi.eng.cam.ac.uk/~cz277/doc/Conference-ICASSP2016-ADAPT.pdf)
-> **Abstract :**   This paper investigates the use of parameterised sigmoid and recti-
+HIDDEN ACTIVATION FUNCTIONS](http://mi.eng.cam.ac.uk/~cz277/doc/Conference-ICASSP2016-ADAPT.pdf)  
+
+ > **Abstract :**   This paper investigates the use of parameterised sigmoid and recti-
 fied linear unit (ReLU) hidden activation functions in deep neural
 network (DNN) speaker adaptation. The sigmoid and ReLU parameterisation
 schemes from a previous study for speaker independent
