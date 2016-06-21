@@ -60,9 +60,11 @@ to the recently proposed learning hidden units contribution
 were also found to work well when adapting with small amounts of
 unsupervised data – 10 seconds is able to decrease the WER by 5%
 relative compared to the baseline speaker independent system.
+
 * [LEARNING HIDDEN UNIT CONTRIBUTIONS FOR
-UNSUPERVISED SPEAKER ADAPTATION OF NEURAL NETWORK ACOUSTIC MODELS](http://www.cstr.ed.ac.uk/downloads/publications/2014/ps-slt14.pdf)
-> **Abstract :**  This paper proposes a simple yet effective model-based neural
+UNSUPERVISED SPEAKER ADAPTATION OF NEURAL NETWORK ACOUSTIC MODELS](http://www.cstr.ed.ac.uk/downloads/publications/2014/ps-slt14.pdf)  
+
+ > **Abstract :**  This paper proposes a simple yet effective model-based neural
 network speaker adaptation technique that learns speakerspecific
 hidden unit contributions given adaptation data,
 without requiring any form of speaker-adaptive training, or
