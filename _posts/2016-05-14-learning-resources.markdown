@@ -11,19 +11,12 @@ categories: resources
   
 * Online Courses  
    * [Harvard Datascience](http://cs109.github.io/2015/pages/videos.html)  
- 
    * [Miniting Massive Datasets](https://www.coursera.org/course/mmds)  
-   
    * [Stanford StatLearning](https://lagunita.stanford.edu/courses/HumanitiesScience/StatLearning/Winter2014/about)  
-
    * [Deep Learning using Tensorflow](https://www.udacity.com/course/deep-learning--ud730)  
-
    * [Data science from life science](https://www.edx.org/course/data-analysis-life-sciences-4-high-harvardx-ph525-4x-0)  
-    
    * [Data science and Engineering with Spark](https://www.edx.org/xseries/data-science-engineering-spark#courses)   
-   
    * [Computational Statistics in Python](http://people.duke.edu/~ccc14/sta-663/index.html)  
-   
    * [Introduction to Data Science](https://www.coursera.org/course/datasci)
    * [Statistics Making sense of data](https://www.coursera.org/course/introstats)
    * [Scalable Machine Learning](https://courses.edx.org/courses/BerkeleyX/CS190.1x/1T2015/info)
