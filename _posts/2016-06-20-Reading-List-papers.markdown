@@ -135,6 +135,15 @@ ReLU activation function for multiple hidden layer adaptation.
 
 # Word Embedding
 * [Deep Learning, NLP and Representation](https://colah.github.io/posts/2014-07-NLP-RNNs-Representations/)
+* [Word Embedding](http://sebastianruder.com/word-embeddings-1/)
+* [Word Embedding](http://veredshwartz.blogspot.in/2016/01/representing-words.html)
+
+> [Important characteristic of a word is the company it keeps](http://veredshwartz.blogspot.in/2016/01/representing-words.html). 
+  According to the distributional hypothesis, words that occur 
+  in similar contexts (with the same neighboring words), tend to 
+  have similar meanings (e.g. elevator and lift will both appear 
+  next to down, up, building, floor, and stairs); simply put, 
+  "tell me who your friends are and I will tell you who you are" - the words version. 
 
 # Neural Network Tips and Tricks
 * [Deep NLP, Stanford](http://cs224d.stanford.edu/lectures/CS224d-Lecture6.pdf)
