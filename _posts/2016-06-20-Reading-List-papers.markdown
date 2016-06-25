@@ -154,4 +154,4 @@ ReLU activation function for multiple hidden layer adaptation.
 # RNN for Slot filling
 
 * [Using Recurrent Neural Networks for Slot Filling in Spoken Language Understanding](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/TASLP_RNN_SLU_2015.pdf)
- > [Theano source code](https://github.com/mesnilgr/is13)
+* [Theano source code](https://github.com/mesnilgr/is13)
