@@ -123,3 +123,35 @@ adapting DNN acoustic models and the BN features, and combines
 well with other DNN adaptation techniques. Reductions in word error
 rate are consistently obtained using parameterised sigmoid and
 ReLU activation function for multiple hidden layer adaptation.
+
+# Machine Learning
+* [AI Principles, Stanford Course](http://web.stanford.edu/class/cs221/)
+
+# Deep Learning
+* [Deep NLP Stanford Course](http://cs224d.stanford.edu/syllabus.html)
+* [Stanford Deep Learning Tutorial](http://ufldl.stanford.edu/tutorial/)
+* [Stanford Convolution Neural Network](http://cs231n.github.io/)
+* 
+
+# Word Embedding
+* [Deep Learning, NLP and Representation](https://colah.github.io/posts/2014-07-NLP-RNNs-Representations/)
+
+# Neural Network Tips and Tricks
+* [Deep NLP, Stanford](http://cs224d.stanford.edu/lectures/CS224d-Lecture6.pdf)
+
+# Sequence to Sequence Learning and Neural Network with Attention
+
+* [Sequence to Sequence Learning, Quoc, Le, Google](http://cs224d.stanford.edu/lectures/CS224d-Lecture16.pdf)
+* [Machine transalation, part1](https://devblogs.nvidia.com/parallelforall/introduction-neural-machine-translation-with-gpus/)
+* [Machine transalation, part2](https://devblogs.nvidia.com/parallelforall/introduction-neural-machine-translation-gpus-part-2/)
+* [Machine transalation with attention, part3](https://devblogs.nvidia.com/parallelforall/introduction-neural-machine-translation-gpus-part-3/)
+
+# Dynamic Memory Networks
+
+* [Ask Me Anything:Dynamic Memory Networks for Natural Language Processing](http://arxiv.org/pdf/1506.07285v5.pdf)
+* [DMN for QnA, Metamind](http://cs224d.stanford.edu/lectures/CS224d-Lecture17.pdf)
+
+# RNN for Slot filling
+
+* [Using Recurrent Neural Networks for Slot Filling in Spoken Language Understanding](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/TASLP_RNN_SLU_2015.pdf)
+ > [Theano source code](https://github.com/mesnilgr/is13)
