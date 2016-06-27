@@ -17,4 +17,9 @@ I had to add the option `-strict experimental` as the tool showed warning when u
 
 I haven't explored other options. If your in a hurry then avconv can get our work done without needing to know about complex details about video format.
 
+## Updating gems, ruby, Jeklly
+
+* [gem upgrade and install](http://stackoverflow.com/questions/13626143/how-to-upgrade-rubygems)
+* [ruby update and switch](http://stackoverflow.com/questions/16222738/how-do-i-install-ruby-2-0-0-correctly-on-ubuntu-12-04)
+* [bunlde install](http://stackoverflow.com/questions/4402819/download-all-gems-dependencies)
 
