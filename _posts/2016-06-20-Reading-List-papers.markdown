@@ -137,6 +137,8 @@ ReLU activation function for multiple hidden layer adaptation.
 * [Deep Learning, NLP and Representation](https://colah.github.io/posts/2014-07-NLP-RNNs-Representations/)
 * [Word Embedding](http://sebastianruder.com/word-embeddings-1/)
 * [Word Embedding](http://veredshwartz.blogspot.in/2016/01/representing-words.html)
+* [Python Code for simple experiments](http://developers.lyst.com/2014/11/11/word-embeddings-for-fashion/)
+* [Tomas mikalov Presentation](NIPS-DeepLearningWorkshop-NNforText.pdf)
 
 > [Important characteristic of a word is the company it keeps](http://veredshwartz.blogspot.in/2016/01/representing-words.html). 
   According to the distributional hypothesis, words that occur 
