@@ -166,3 +166,29 @@ ReLU activation function for multiple hidden layer adaptation.
 
 * [Using Recurrent Neural Networks for Slot Filling in Spoken Language Understanding](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/TASLP_RNN_SLU_2015.pdf)
 * [Theano source code](https://github.com/mesnilgr/is13)
+
+# Keyword Spotting Using NN
+
+* [QUERY-BY-EXAMPLE KEYWORD SPOTTING USING LONG SHORT-TERM MEMORY NETWORKS](http://www.clsp.jhu.edu/~guoguo/papers/icassp2015_myhotword.pdf)
+* [SMALL-FOOTPRINT KEYWORD SPOTTING USING DEEP NEURAL NETWORKS](http://static.googleusercontent.com/media/research.google.com/en//pubs/archive/42537.pdf)
+* [Online Keyword Spotting with a Character-Level Recurrent Neural Network](https://arxiv.org/pdf/1512.08903.pdf)
+* [An application of recurrent neural networks to discriminative keyword spotting](http://www.cs.toronto.edu/~graves/icann_santi_2007.pdf)
+* [AUTOMATIC GAIN CONTROL AND MULTI-STYLE TRAINING FOR ROBUST SMALL-FOOTPRINT KEYWORD SPOTTING WITH DEEP NEURAL NETWORKS](http://static.googleusercontent.com/media/research.google.com/en//pubs/archive/43289.pdf)
+
+# Decoder Graph
+
+* [Rapid Vocabulary Addition to Context-Dependent Decoder Graphs](http://www.isca-speech.org/archive/interspeech_2015/papers/i15_2112.pdf)
+* [Discussion about graph](https://github.com/kaldi-asr/kaldi/issues/720)
+
+# Language Model
+
+* [Geo-location for Voice Search Language Modeling](http://static.googleusercontent.com/media/research.google.com/en//pubs/archive/43817.pdf)
+
+# Confidence Score/Rejection
+
+* [Garbage Modeling for On-device Speech Recognition](http://static.googleusercontent.com/media/research.google.com/en//pubs/archive/43847.pdf)
+
+# Data Correction/Cleaning, Pronunciation Verification
+
+* [FIX IT WHERE IT FAILS:PRONUNCIATION LEARNING BY MINING ERROR CORRECTIONS FROM SPEECH LOGS](http://static.googleusercontent.com/media/research.google.com/en//pubs/archive/43263.pdf)
+* [AUTOMATIC PRONUNCIATION VERIFICATION FOR SPEECH RECOGNITION](http://static.googleusercontent.com/media/research.google.com/en//pubs/archive/43262.pdf)
