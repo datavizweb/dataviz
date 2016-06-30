@@ -124,6 +124,12 @@ well with other DNN adaptation techniques. Reductions in word error
 rate are consistently obtained using parameterised sigmoid and
 ReLU activation function for multiple hidden layer adaptation.
 
+# Research Groups
+* [Microsoft Speech Research Group](https://www.microsoft.com/en-us/research/group/speech-dialog-research-group/)
+ > Language model, Acoustic Model and Other NLP related areas are published here
+* [Google Speech Research Group](http://research.google.com/pubs/SpeechProcessing.html)
+ > Speech Recognition, TTS, NLP related arears
+
 # Machine Learning
 * [AI Principles, Stanford Course](http://web.stanford.edu/class/cs221/)
 
@@ -131,7 +137,7 @@ ReLU activation function for multiple hidden layer adaptation.
 * [Deep NLP Stanford Course](http://cs224d.stanford.edu/syllabus.html)
 * [Stanford Deep Learning Tutorial](http://ufldl.stanford.edu/tutorial/)
 * [Stanford Convolution Neural Network](http://cs231n.github.io/)
-* 
+
 
 # Word Embedding
 * [Deep Learning, NLP and Representation](https://colah.github.io/posts/2014-07-NLP-RNNs-Representations/)
@@ -183,6 +189,16 @@ ReLU activation function for multiple hidden layer adaptation.
 # Language Model
 
 * [Geo-location for Voice Search Language Modeling](http://static.googleusercontent.com/media/research.google.com/en//pubs/archive/43817.pdf)
+* [Word-Phrase-Entity Language Models: Getting More Mileage out of N-grams](https://www.microsoft.com/en-us/research/publication/word-phrase-entity-language-models-getting-more-mileage-out-of-n-grams/)
+ > We present a modification of the traditional n-gram language modeling approach that departs from the word-level data representation and seeks to re-express the training text in terms of tokens that could be either words, common phrases or instances of one or several classes. Our iterative optimization algorithm considers alternative parses of the corpus in terms of these tokens, re-estimates token n-gram probabilities and also updates within-class distributions. In this paper, we focus on the cold start approach that only assumes availability of the word-level training corpus, as well as a number of generic class definitions. Applied to the calendar scenario in the personal assistant domain, our approach reduces word error rates by more than 13% relative to the word-only n-gram language models. Only a small fraction of these improvements can be ascribed to a larger vocabulary.
+* [Personalization of Word-Phrase-Entity Language Models](https://www.microsoft.com/en-us/research/publication/personalization-of-word-phrase-entity-language-models/)
+> We continue our investigations of Word-Phrase-Entity (WPE) Language Models that unify words, phrases and classes, such as named entities, into a single probabilistic framework for the purpose of language modeling. In the present study we show how WPE LMs can be adapted to work in a personalized scenario where class definitions change from user to user or even from utterance to utterance. Compared to traditional classbased LMs in various conditions, WPE LMs exhibited comparable or better modeling potential without requiring pre-tagged training material. We also significantly scaled the experimental setup by widening the target domain, amplifying the amount of training material and increasing the number of classes.
+* [Token-level Interpolation for Class-Based Language Models](https://www.microsoft.com/en-us/research/publication/token-level-interpolation-for-class-based-language-models/)
+* [Rapidly building domain-specific entity-centric language models using semantic web knowledge resources](https://www.microsoft.com/en-us/research/publication/rapidly-building-domain-specific-entity-centric-language-models-using-semantic-web-knowledge-resources/)
+
+# Acoustic Model
+
+* [Speaker-aware Training of LSTM-RNNS for Acoustic Modelling](https://www.microsoft.com/en-us/research/publication/speaker-aware-training-of-lstm-rnns-for-acoustic-modelling/)
 
 # Confidence Score/Rejection
 
@@ -192,3 +208,8 @@ ReLU activation function for multiple hidden layer adaptation.
 
 * [FIX IT WHERE IT FAILS:PRONUNCIATION LEARNING BY MINING ERROR CORRECTIONS FROM SPEECH LOGS](http://static.googleusercontent.com/media/research.google.com/en//pubs/archive/43263.pdf)
 * [AUTOMATIC PRONUNCIATION VERIFICATION FOR SPEECH RECOGNITION](http://static.googleusercontent.com/media/research.google.com/en//pubs/archive/43262.pdf)
+
+# Text Normalization
+
+* [Shared Tasks of the 2015 Workshop on Noisy User-generated Text:Twitter Lexical Normalization and Named Entity Recognition](https://www.microsoft.com/en-us/research/wp-content/uploads/2015/08/WNUT19.pdf)
+ * This paper has link to other papers and also link to some source code
