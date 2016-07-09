@@ -213,3 +213,10 @@ ReLU activation function for multiple hidden layer adaptation.
 
 * [Shared Tasks of the 2015 Workshop on Noisy User-generated Text:Twitter Lexical Normalization and Named Entity Recognition](https://www.microsoft.com/en-us/research/wp-content/uploads/2015/08/WNUT19.pdf)
  * This paper has link to other papers and also link to some source code
+
+
+# Learning Resources
+
+* [Recent Deep Learning resources](http://handong1587.github.io/deep_learning/2016/07/08/keep-up-with-new-trends.html)
+* [RNN, LSTM Resources](http://handong1587.github.io/deep_learning/2015/10/09/rnn-and-lstm.html)
+* [Deep Learning Resoruces](http://handong1587.github.io/categories.html#deep_learning-ref)
