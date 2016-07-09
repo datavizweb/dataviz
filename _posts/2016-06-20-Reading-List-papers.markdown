@@ -215,8 +215,19 @@ ReLU activation function for multiple hidden layer adaptation.
  * This paper has link to other papers and also link to some source code
 
 
+<<<<<<< HEAD
 # Learning Resources
 
 * [Recent Deep Learning resources](http://handong1587.github.io/deep_learning/2016/07/08/keep-up-with-new-trends.html)
 * [RNN, LSTM Resources](http://handong1587.github.io/deep_learning/2015/10/09/rnn-and-lstm.html)
 * [Deep Learning Resoruces](http://handong1587.github.io/categories.html#deep_learning-ref)
+=======
+# Convolution Neural Networks
+
+* reading1
+* reading2
+
+# Chat bots
+
+* rnn, lstm
+>>>>>>> ddd4f652a25f5991a2e139a4d5f0292021749e6a
