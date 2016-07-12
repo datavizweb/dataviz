@@ -180,6 +180,8 @@ ReLU activation function for multiple hidden layer adaptation.
 * [Online Keyword Spotting with a Character-Level Recurrent Neural Network](https://arxiv.org/pdf/1512.08903.pdf)
 * [An application of recurrent neural networks to discriminative keyword spotting](http://www.cs.toronto.edu/~graves/icann_santi_2007.pdf)
 * [AUTOMATIC GAIN CONTROL AND MULTI-STYLE TRAINING FOR ROBUST SMALL-FOOTPRINT KEYWORD SPOTTING WITH DEEP NEURAL NETWORKS](http://static.googleusercontent.com/media/research.google.com/en//pubs/archive/43289.pdf)
+* [Convolutional Neural Networks for Small-Footprint Keyword Spotting](http://static.googleusercontent.com/media/research.google.com/en//pubs/archive/43969.pdf)
+
 
 # Decoder Graph
 
@@ -207,7 +209,7 @@ ReLU activation function for multiple hidden layer adaptation.
 # Data Correction/Cleaning, Pronunciation Verification
 
 * [FIX IT WHERE IT FAILS:PRONUNCIATION LEARNING BY MINING ERROR CORRECTIONS FROM SPEECH LOGS](http://static.googleusercontent.com/media/research.google.com/en//pubs/archive/43263.pdf)
-* [AUTOMATIC PRONUNCIATION VERIFICATION FOR SPEECH RECOGNITION](http://static.googleusercontent.com/media/research.google.com/en//pubs/archive/43262.pdf)
+
 
 # Text Normalization
 
@@ -223,4 +225,33 @@ ReLU activation function for multiple hidden layer adaptation.
 
 * [RNN, LSTM Resources](http://handong1587.github.io/deep_learning/2015/10/09/rnn-and-lstm.html)
 
+## June, 2016
 
+* [Smart Reply, Google Research Blog](https://research.googleblog.com/2015/11/computer-respond-to-this-email.html)
+* [Thought Vector, Geoffrrey Hinton](http://www.extremetech.com/extreme/206521-thought-vectors-could-revolutionize-artificial-intelligence)
+
+## July, 2016
+
+* [Learning Compact Recurrent Neural Networks](http://arxiv.org/pdf/1604.02594v1.pdf)
+* [Listen, Attend and Spell: A Neural Network for Large Vocabulary Conversational Speech Recognition](http://static.googleusercontent.com/media/research.google.com/en//pubs/archive/44926.pdf)
+
+
+# G2P, Lexicon, Pronunciation Learning
+
+## July, 2016
+
+* [Learning Personalized Pronunciations for Contact Names Recognition](http://research.google.com/pubs/pub45415.html)
+* [Automatic Pronunciation Verification for Speech Recognition](http://static.googleusercontent.com/media/research.google.com/en//pubs/archive/43262.pdf)
+
+
+
+# Speech Synthesis
+
+## July, 2016
+
+* [Acoustic Modeling for Speech Synthesis, Heiga, Zen](http://static.googleusercontent.com/media/research.google.com/en//pubs/archive/44630.pdf)
+
+
+# Papers from Google Brain Team
+
+Papers from [Google Brain](http://research.google.com/pubs/BrainTeam.html)

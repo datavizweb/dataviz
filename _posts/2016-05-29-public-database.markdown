@@ -22,3 +22,7 @@ categories: database
  * [source2](https://raw.githubusercontent.com/docdis/english-words/master/words2.txt)
  * [source3](https://github.com/cracklib/cracklib)
  * [source4](http://www.manythings.org/vocabulary/lists/l/) not in text format. Not checked yet.
+ 
+## Google NLP Team Dataset
+
+* [Dataset](http://research.google.com/research-outreach.html#/research-outreach/research-datasets)
