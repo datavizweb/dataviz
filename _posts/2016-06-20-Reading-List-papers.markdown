@@ -254,4 +254,5 @@ ReLU activation function for multiple hidden layer adaptation.
 
 # Papers from Google Brain Team
 
-Papers from [Google Brain](http://research.google.com/pubs/BrainTeam.html)
+Papers from [`Google Brain`](http://research.google.com/pubs/BrainTeam.html)
+
