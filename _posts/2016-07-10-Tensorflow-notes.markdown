@@ -12,3 +12,8 @@ categories: Notes
 
 # Tensorflow tutorual
 * [Slideshared link](http://www.slideshare.net/tw_dsconf/tensorflow-tutorial)
+
+# Source Install
+* [link 1](http://stackoverflow.com/questions/34762463/install-tensorflow-pip-wheel-without-internet)
+* [link 2](https://groups.google.com/a/tensorflow.org/forum/m/#!msg/discuss/qI_2Qqn33B4/SiJMoKDxBQAJ)
+* [bazel issue behind proxy](https://github.com/bazelbuild/bazel/issues/587)
