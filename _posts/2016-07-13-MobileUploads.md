@@ -11,3 +11,11 @@ title: MobileUploads
 [AudioSentibank: Large-scale Semantic Ontology of Acoustic Concepts for
   Audio Content Analysis](https://arxiv.org/abs/1607.03766)
 [Hierachical learning for DNN-based acoustic scene classificatio](https://arxiv.org/abs/1607.03682)
+
+[Trainable Frontend For Robust and Far-Field Keyword Spotting](https://arxiv.org/abs/1607.05666)
+
+[Named Entity Recognition with Bidirectional LSTM-CNNs](https://arxiv.org/abs/1511.08308)
+
+[Policy Networks with Two-Stage Training for Dialogue Systems](https://arxiv.org/abs/1606.03152)
+
+[Using Word Embeddings in Twitter Election Classification](https://arxiv.org/abs/1606.07006)
