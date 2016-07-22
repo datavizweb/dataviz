@@ -256,3 +256,19 @@ ReLU activation function for multiple hidden layer adaptation.
 
 Papers from [`Google Brain`](http://research.google.com/pubs/BrainTeam.html)
 
+
+# Language Model
+
+* [Study on Interaction between Entropy Pruning and Kneser-Ney Smoothing](http://www.australianscience.com.au/research/google/36472.pdf)
+> Performance degrades when KN Smoothed model is argressively pruned.
+
+* [One Billion Word Benchmark for Measuring Progress in Statistical Language Modeling](https://github.com/ciprian-chelba/1-billion-word-language-modeling-benchmark/blob/master/papers/naaclhlt2013.pdf)
+> Benchmark dataset
+
+* [Bayesian Language Model Interpolation for Mobile Speech Input](http://static.googleusercontent.com/media/research.google.com/en//pubs/archive/37567.pdf)
+* [Bringing Contextual Information to Google Speech Recognition](http://static.googleusercontent.com/media/research.google.com/en//pubs/archive/43819.pdf)
+
+* [Smoothing techniques : Lecture presentation](http://www.statmt.org/book/slides/07-language-models.pdf)
+> For reading or reference
+ 
+ 
